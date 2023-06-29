@@ -36,3 +36,8 @@ Let's connect!
 - Attention to detail
 - Multitasking Independence
 - Good communication
+
+**LANGUAGES**
+
+- English - Intermediate
+- Ukrainian - Native
