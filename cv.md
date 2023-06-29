@@ -41,3 +41,11 @@ Let's connect!
 
 - English - Intermediate
 - Ukrainian - Native
+
+  **EDUCATION**
+
+- 2022-2023 IT School GoIT
+  _Fullstack Developer_
+
+- 2011-2017 Ivan Franko National University of Lviv
+  _Management of Organization and Administration_
